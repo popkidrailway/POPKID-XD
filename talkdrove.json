@@ -1,0 +1,25 @@
+{
+  "bot-name": "POPKID-BOT",
+  "description": "POPKID-MD made for people on Earth",
+  "logo": "https://files.catbox.moe/w5xf3f.jpg",
+  "keywords": ["bot"],
+  "documentation-link": "https://getmyidpopkid.onrender.com/",
+  "owner-verification": "kenyanpopkid@gmail.com",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put session id",
+      "value": "",
+      "required": true
+    },
+    "PREFIX": {
+      "description": "Bot command prefix, (e.g, . , ! @ etc",
+      "value": ".",
+      "required": true  
+    },
+    "OWNER": {
+      "description": "premium users",
+      "value": "254111385747",
+      "required": false
+    }
+  }
+}
