@@ -1,4 +1,4 @@
-# popkid-xd
+# 💙POPKID PANEL❤️
 
 # Session Id **[Here](https://popkidmainid.onrender.com/pair)**
 ---
