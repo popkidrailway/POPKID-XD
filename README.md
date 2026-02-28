@@ -1,6 +1,6 @@
 # Popkid Xd...
 
-# Session Id👉 **[Here](https://popkidmainid.onrender.com/pair)**
+# Session Id👉 **[Here](https://popkidsfairplayers.onrender.com)**
 ---
 # Zip Here 👉 **[Here](https://www.mediafire.com/file/xiwluxlsncup5be/POPKID-MD-BOT.zip/file)**
 ---
